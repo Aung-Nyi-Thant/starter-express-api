@@ -1,0 +1,1 @@
+export const API_URL = "https://aware-pinafore-fawn.cyclic.app/api";
